@@ -20,7 +20,7 @@ namespace AsyncTry
 
         public void Method_3()
         {
-
+            Console.WriteLine("TEST3");
         }
 
         public void Method_7()
