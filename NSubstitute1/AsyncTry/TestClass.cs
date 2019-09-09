@@ -10,7 +10,7 @@ namespace AsyncTry
     {
         public void Method_1()
         {
-
+            Console.WriteLine("TEST1");
         }
 
         public void Method_2()
