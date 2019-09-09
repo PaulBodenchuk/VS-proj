@@ -25,7 +25,7 @@ namespace AsyncTry
 
         public void Method_7()
         {
-
+            Console.WriteLine("TEST");
         }
     }
 }
