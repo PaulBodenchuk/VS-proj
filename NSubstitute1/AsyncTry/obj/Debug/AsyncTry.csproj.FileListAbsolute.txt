@@ -1,0 +1,7 @@
+C:\TestRepo\VS proj\NSubstitute1\AsyncTry\bin\Debug\AsyncTry.exe.config
+C:\TestRepo\VS proj\NSubstitute1\AsyncTry\bin\Debug\AsyncTry.exe
+C:\TestRepo\VS proj\NSubstitute1\AsyncTry\bin\Debug\AsyncTry.pdb
+C:\TestRepo\VS proj\NSubstitute1\AsyncTry\obj\Debug\AsyncTry.csprojAssemblyReference.cache
+C:\TestRepo\VS proj\NSubstitute1\AsyncTry\obj\Debug\AsyncTry.csproj.CoreCompileInputs.cache
+C:\TestRepo\VS proj\NSubstitute1\AsyncTry\obj\Debug\AsyncTry.exe
+C:\TestRepo\VS proj\NSubstitute1\AsyncTry\obj\Debug\AsyncTry.pdb

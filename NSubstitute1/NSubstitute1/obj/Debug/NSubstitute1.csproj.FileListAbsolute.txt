@@ -1,0 +1,17 @@
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\bin\Debug\NSubstitute1.exe.config
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\bin\Debug\NSubstitute1.exe
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\bin\Debug\NSubstitute1.pdb
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\bin\Debug\Castle.Core.dll
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\bin\Debug\NSubstitute.dll
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\bin\Debug\Castle.Core.xml
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\bin\Debug\NSubstitute.xml
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\obj\Debug\NSubstitute1.csprojAssemblyReference.cache
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\obj\Debug\NSubstitute1.csproj.CoreCompileInputs.cache
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\obj\Debug\NSubstitute1.csproj.CopyComplete
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\obj\Debug\NSubstitute1.exe
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\obj\Debug\NSubstitute1.pdb
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\bin\Debug\nunit.framework.dll
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\bin\Debug\nunit.framework.pdb
+C:\TestRepo\VS proj\NSubstitute1\NSubstitute1\bin\Debug\nunit.framework.xml

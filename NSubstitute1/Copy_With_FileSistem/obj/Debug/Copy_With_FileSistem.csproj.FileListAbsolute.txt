@@ -1,0 +1,14 @@
+C:\TestRepo\VS proj\NSubstitute1\Copy_With_FileSistem\bin\Debug\Copy_With_FileSistem.exe.config
+C:\TestRepo\VS proj\NSubstitute1\Copy_With_FileSistem\bin\Debug\Copy_With_FileSistem.exe
+C:\TestRepo\VS proj\NSubstitute1\Copy_With_FileSistem\bin\Debug\Copy_With_FileSistem.pdb
+C:\TestRepo\VS proj\NSubstitute1\Copy_With_FileSistem\bin\Debug\System.IO.Abstractions.dll
+C:\TestRepo\VS proj\NSubstitute1\Copy_With_FileSistem\bin\Debug\System.IO.Abstractions.xml
+C:\TestRepo\VS proj\NSubstitute1\Copy_With_FileSistem\obj\Debug\Copy_With_FileSistem.csprojAssemblyReference.cache
+C:\TestRepo\VS proj\NSubstitute1\Copy_With_FileSistem\obj\Debug\Copy_With_FileSistem.csproj.CoreCompileInputs.cache
+C:\TestRepo\VS proj\NSubstitute1\Copy_With_FileSistem\obj\Debug\Copy_With_FileSistem.csproj.CopyComplete
+C:\TestRepo\VS proj\NSubstitute1\Copy_With_FileSistem\obj\Debug\Copy_With_FileSistem.exe
+C:\TestRepo\VS proj\NSubstitute1\Copy_With_FileSistem\obj\Debug\Copy_With_FileSistem.pdb
+C:\TestRepo\VS proj\NSubstitute1\Copy_With_FileSistem\bin\Debug\nunit.framework.dll
+C:\TestRepo\VS proj\NSubstitute1\Copy_With_FileSistem\bin\Debug\System.IO.Abstractions.TestingHelpers.dll
+C:\TestRepo\VS proj\NSubstitute1\Copy_With_FileSistem\bin\Debug\nunit.framework.pdb
+C:\TestRepo\VS proj\NSubstitute1\Copy_With_FileSistem\bin\Debug\nunit.framework.xml
