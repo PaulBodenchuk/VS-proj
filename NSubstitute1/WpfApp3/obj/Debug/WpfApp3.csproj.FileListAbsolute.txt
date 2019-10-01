@@ -1,0 +1,15 @@
+C:\TestRepo\VS proj\NSubstitute1\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\TestRepo\VS proj\NSubstitute1\WpfApp3\bin\Debug\WpfApp3.exe
+C:\TestRepo\VS proj\NSubstitute1\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\TestRepo\VS proj\NSubstitute1\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+C:\TestRepo\VS proj\NSubstitute1\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\TestRepo\VS proj\NSubstitute1\WpfApp3\obj\Debug\App.g.cs
+C:\TestRepo\VS proj\NSubstitute1\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\TestRepo\VS proj\NSubstitute1\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\TestRepo\VS proj\NSubstitute1\WpfApp3\obj\Debug\MainWindow.baml
+C:\TestRepo\VS proj\NSubstitute1\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\TestRepo\VS proj\NSubstitute1\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\TestRepo\VS proj\NSubstitute1\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\TestRepo\VS proj\NSubstitute1\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\TestRepo\VS proj\NSubstitute1\WpfApp3\obj\Debug\WpfApp3.exe
+C:\TestRepo\VS proj\NSubstitute1\WpfApp3\obj\Debug\WpfApp3.pdb

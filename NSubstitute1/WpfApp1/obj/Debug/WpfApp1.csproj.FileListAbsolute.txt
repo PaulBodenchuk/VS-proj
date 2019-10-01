@@ -16,3 +16,10 @@ C:\TestRepo\VS proj\NSubstitute1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResour
 C:\TestRepo\VS proj\NSubstitute1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
 C:\TestRepo\VS proj\NSubstitute1\WpfApp1\obj\Debug\WpfApp1.exe
 C:\TestRepo\VS proj\NSubstitute1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\TestRepo\VS proj\NSubstitute1\WpfApp1\bin\Debug\Castle.Core.dll
+C:\TestRepo\VS proj\NSubstitute1\WpfApp1\bin\Debug\NSubstitute.dll
+C:\TestRepo\VS proj\NSubstitute1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\TestRepo\VS proj\NSubstitute1\WpfApp1\bin\Debug\Castle.Core.xml
+C:\TestRepo\VS proj\NSubstitute1\WpfApp1\bin\Debug\NSubstitute.xml
+C:\TestRepo\VS proj\NSubstitute1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\TestRepo\VS proj\NSubstitute1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
