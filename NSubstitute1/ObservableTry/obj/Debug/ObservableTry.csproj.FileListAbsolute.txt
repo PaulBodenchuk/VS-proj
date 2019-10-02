@@ -1,0 +1,7 @@
+C:\TestRepo\VS proj\NSubstitute1\ObservableTry\bin\Debug\ObservableTry.exe.config
+C:\TestRepo\VS proj\NSubstitute1\ObservableTry\bin\Debug\ObservableTry.exe
+C:\TestRepo\VS proj\NSubstitute1\ObservableTry\bin\Debug\ObservableTry.pdb
+C:\TestRepo\VS proj\NSubstitute1\ObservableTry\obj\Debug\ObservableTry.csprojAssemblyReference.cache
+C:\TestRepo\VS proj\NSubstitute1\ObservableTry\obj\Debug\ObservableTry.csproj.CoreCompileInputs.cache
+C:\TestRepo\VS proj\NSubstitute1\ObservableTry\obj\Debug\ObservableTry.exe
+C:\TestRepo\VS proj\NSubstitute1\ObservableTry\obj\Debug\ObservableTry.pdb

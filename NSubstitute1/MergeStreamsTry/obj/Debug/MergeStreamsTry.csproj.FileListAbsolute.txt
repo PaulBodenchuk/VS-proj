@@ -1,0 +1,7 @@
+C:\TestRepo\VS proj\NSubstitute1\MergeStreamsTry\bin\Debug\MergeStreamsTry.exe.config
+C:\TestRepo\VS proj\NSubstitute1\MergeStreamsTry\bin\Debug\MergeStreamsTry.exe
+C:\TestRepo\VS proj\NSubstitute1\MergeStreamsTry\bin\Debug\MergeStreamsTry.pdb
+C:\TestRepo\VS proj\NSubstitute1\MergeStreamsTry\obj\Debug\MergeStreamsTry.csprojAssemblyReference.cache
+C:\TestRepo\VS proj\NSubstitute1\MergeStreamsTry\obj\Debug\MergeStreamsTry.csproj.CoreCompileInputs.cache
+C:\TestRepo\VS proj\NSubstitute1\MergeStreamsTry\obj\Debug\MergeStreamsTry.exe
+C:\TestRepo\VS proj\NSubstitute1\MergeStreamsTry\obj\Debug\MergeStreamsTry.pdb

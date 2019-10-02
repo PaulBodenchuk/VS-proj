@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Copy_With_FileSistem", "Cop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncTry", "AsyncTry\AsyncTry.csproj", "{23C37EC1-4A4E-4FF6-9505-F0BE2B72FA01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObservableTry", "ObservableTry\ObservableTry.csproj", "{D1165D97-2FC9-475A-A087-DADA95572B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeStreamsTry", "MergeStreamsTry\MergeStreamsTry.csproj", "{3E375AA3-2CF9-4047-9225-D2029B9BFB6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{23C37EC1-4A4E-4FF6-9505-F0BE2B72FA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23C37EC1-4A4E-4FF6-9505-F0BE2B72FA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23C37EC1-4A4E-4FF6-9505-F0BE2B72FA01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1165D97-2FC9-475A-A087-DADA95572B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1165D97-2FC9-475A-A087-DADA95572B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1165D97-2FC9-475A-A087-DADA95572B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1165D97-2FC9-475A-A087-DADA95572B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E375AA3-2CF9-4047-9225-D2029B9BFB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E375AA3-2CF9-4047-9225-D2029B9BFB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E375AA3-2CF9-4047-9225-D2029B9BFB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E375AA3-2CF9-4047-9225-D2029B9BFB6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
