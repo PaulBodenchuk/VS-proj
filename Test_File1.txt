@@ -1,3 +1,6 @@
 Line from clone 1
 Line from clone 2
 Line from clone 3
+Line from clone 9
+Line from clone 8
+Line from clone 7
