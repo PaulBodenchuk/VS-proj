@@ -1,0 +1,3 @@
+Line from clone 1
+Line from clone 2
+Line from clone 3
