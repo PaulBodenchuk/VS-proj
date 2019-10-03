@@ -1,3 +1,6 @@
 Origin Line 1
 Origin Line 2
 Origin Line 3
+Line Clone 1
+Line Clone 2
+Line Clone 3
